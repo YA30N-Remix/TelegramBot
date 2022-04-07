@@ -1,0 +1,9 @@
+E:\Programing\Application\Bot\Bot\bin\Debug\Bot.exe.config
+E:\Programing\Application\Bot\Bot\bin\Debug\Bot.exe
+E:\Programing\Application\Bot\Bot\bin\Debug\Bot.pdb
+E:\Programing\Application\Bot\Bot\bin\Debug\RestSharp.dll
+E:\Programing\Application\Bot\Bot\bin\Debug\TelegramBotSharp.dll
+E:\Programing\Application\Bot\Bot\bin\Debug\RestSharp.xml
+E:\Programing\Application\Bot\Bot\obj\Debug\Bot.csprojResolveAssemblyReference.cache
+E:\Programing\Application\Bot\Bot\obj\Debug\Bot.exe
+E:\Programing\Application\Bot\Bot\obj\Debug\Bot.pdb
